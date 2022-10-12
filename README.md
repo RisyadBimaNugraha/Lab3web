@@ -8,7 +8,7 @@
 # Membuat dokumen HTML dengan nama file lab3_list.html dan Membuat Ordered list
 ![Proses 1](proses_ss/pss1.png)
 # LANGKAH 2
-# Membuat UInordered List
+# Membuat Unordered List
 ![Proses 2](proses_ss/pss2.png)
 # LANGKAH 3
 # Membuat Description List
@@ -20,7 +20,7 @@
 # Menggabungkan sel Data dan Mengatur magrin tabel
 ![langkah 5](proses_ss/pss5.png)
 # LANGKAH 6
-# Membuat file HTML baru dan membuat tabel
+# Membuat file HTML baru,Membuat form dan membuat tabel
 ![langkah 6](proses_ss/pss6.png)
 # LANGKAH 7
 # Menambahkan css agar lebih menarik
